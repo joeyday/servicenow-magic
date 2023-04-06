@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="209a89288769e1105ef3b8c6cebb35e4" label="Card" max_length="40" name="x_10559_magic_card" type="collection">
+        <element label="Colors" max_length="254" name="colors" read_only="true" type="string"/>
+        <element label="Converted mana cost" max_length="40" name="converted_mana_cost" read_only="true" type="integer"/>
+        <element label="Flavor text" max_length="1000" name="flavor_text" read_only="true" type="string"/>
+        <element label="Mana cost" max_length="254" name="mana_cost" read_only="true" type="string"/>
+        <element label="Name" mandatory="true" max_length="254" name="name" type="string"/>
+        <element label="Power" max_length="40" name="power" read_only="true" type="integer"/>
+        <element label="Set" mandatory="true" max_length="254" name="set" type="string"/>
+        <element label="Text" max_length="1000" name="text" read_only="true" type="string"/>
+        <element label="Toughness" max_length="40" name="toughness" read_only="true" type="integer"/>
+        <element label="Type" max_length="254" name="type" read_only="true" type="string"/>
+    </element>
+</database>

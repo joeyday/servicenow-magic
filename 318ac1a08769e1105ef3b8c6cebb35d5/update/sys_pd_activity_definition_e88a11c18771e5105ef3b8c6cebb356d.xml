@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_pd_activity_definition">
+    <sys_pd_activity_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <activity_type/>
+        <badge/>
+        <category/>
+        <description/>
+        <experience_display_preferences/>
+        <input_display_preferences/>
+        <inputs/>
+        <label>Create Magic Card</label>
+        <name>create_magic_card</name>
+        <outputs/>
+        <source>b6ed41e88769e1105ef3b8c6cebb35fc</source>
+        <source_type>sys_hub_flow</source_type>
+        <sys_class_name>sys_pd_activity_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-23 21:05:33</sys_created_on>
+        <sys_id>e88a11c18771e5105ef3b8c6cebb356d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create Magic Card</sys_name>
+        <sys_package display_value="Magic" source="x_10559_magic">318ac1a08769e1105ef3b8c6cebb35d5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Magic">318ac1a08769e1105ef3b8c6cebb35d5</sys_scope>
+        <sys_update_name>sys_pd_activity_definition_e88a11c18771e5105ef3b8c6cebb356d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-23 21:05:33</sys_updated_on>
+        <system_level>false</system_level>
+        <table>global</table>
+        <type_vals/>
+        <wait_for_completion>true</wait_for_completion>
+    </sys_pd_activity_definition>
+    <sys_variable_value action="delete_multiple" query="document_key=e88a11c18771e5105ef3b8c6cebb356d"/>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_flow_input_b6ed41e88769e1105ef3b8c6cebb35fc^id=e88a11c18771e5105ef3b8c6cebb356d"/>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping">
+    <sys_rte_eb_field_mapping action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <referenced_sys_rte_eb_entity/>
+        <source_sys_rte_eb_field display_value="Affected User">1764e121874a61105ef3b8c6cebb35b3</source_sys_rte_eb_field>
+        <sys_class_name>sys_rte_eb_field_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-06 21:21:26</sys_created_on>
+        <sys_id>23942921874a61105ef3b8c6cebb3503</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Magic" source="x_10559_magic">318ac1a08769e1105ef3b8c6cebb35d5</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Import stuff_etl_ihub">dad265ad870a61105ef3b8c6cebb35fb</sys_rte_eb_definition>
+        <sys_rte_eb_entity_mapping display_value="IHUB_SOURCE_TEMP_MAPPING">e794e521874a61105ef3b8c6cebb35fe</sys_rte_eb_entity_mapping>
+        <sys_scope display_value="Magic">318ac1a08769e1105ef3b8c6cebb35d5</sys_scope>
+        <sys_update_name>sys_rte_eb_field_mapping_23942921874a61105ef3b8c6cebb3503</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-06 21:21:26</sys_updated_on>
+        <target_sys_rte_eb_field display_value="Affected User_sn_ihub_target_caller_id">5b94e521874a61105ef3b8c6cebb35e3</target_sys_rte_eb_field>
+    </sys_rte_eb_field_mapping>
+</record_update>

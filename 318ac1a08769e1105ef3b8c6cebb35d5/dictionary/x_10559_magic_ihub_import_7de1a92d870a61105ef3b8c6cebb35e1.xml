@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b8e369ed870a61105ef3b8c6cebb357c" extends="sys_import_set_row" label="Import stuff" max_length="40" name="x_10559_magic_ihub_import_7de1a92d870a61105ef3b8c6cebb35e1" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Affected User" label="Affected User" max_length="40" name="u_affected_user" type="string"/>
+        <element attributes="import_attribute_name=Impact" label="Impact" max_length="40" name="u_impact" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Number" label="Number" max_length="40" name="u_number" type="string"/>
+        <element attributes="import_attribute_name=Priority" label="Priority" max_length="40" name="u_priority" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Short description" label="Short description" max_length="40" name="u_short_description" type="string"/>
+        <element attributes="import_attribute_name=Urgency" label="Urgency" max_length="40" name="u_urgency" type="integer"/>
+    </element>
+</database>
